@@ -1,7 +1,5 @@
-# Analysis of Credit card frauds.
+# Analysis of Kaggle datasets.
 
-Dataset taken from kaggle.
-https://www.kaggle.com/dalpozz/creditcardfraud
-
-Current results: 176 wrong answers out of approximately 288k test cases.
-
+Datasets taken from kaggle.
+1. Credit card Frauds:https://www.kaggle.com/dalpozz/creditcardfraud
+2. Titanic dataset
